@@ -1,5 +1,5 @@
 import Hero from "../../components/hero/Hero.jsx";
-import Welcome from "../../components/ourmenu/Ourmenu.jsx";
+import Welcome from "../../components/welcome/Welcome.jsx";
 
 
 const HomePage = () => {

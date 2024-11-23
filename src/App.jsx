@@ -5,6 +5,7 @@ import MenuPage from "./pages/menu/MenuPage"
 import HomePage from "./pages/home-page/HomePage.jsx";
 
 import {Routes, Route, Outlet} from 'react-router-dom'
+import './app.css'
 
 const Layout = () => {
   return (
@@ -61,7 +62,7 @@ export default App
 // // <Ourmenu></Ourmenu>/Ourmenu"<div className="
 
 
-// import Ourmenu from "./components/ourmenu/Ourmenu"
+// import Ourmenu from "./components/welcome/Ourmenu"
 
 
 // function App() {
@@ -108,7 +109,7 @@ export default App
 // // <Ourmenu></Ourmenu>/Ourmenu"<div className="
 
 
-// import Ourmenu from "./components/ourmenu/Ourmenu"
+// import Ourmenu from "./components/welcome/Ourmenu"
 
 // function App() {
 
